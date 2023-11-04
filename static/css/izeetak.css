@@ -2050,6 +2050,7 @@ canvas {
     position: relative;
     display: flex;
     align-items: center;
+    margin-top: 130pt;
 }
 
 .about-one__it-solutions-icon span {
@@ -2066,7 +2067,8 @@ canvas {
 }
 
 .about-one__it-solutions-text-box {
-    margin-left: 20px;
+    margin-left: 0px;
+    margin-top: 0px;
 }
 
 .about-one__it-solutions-text {
@@ -2293,10 +2295,10 @@ canvas {
 }
 
 .share-the-joy__title {
-    font-size: 50px;
+    font-size: 18px;
     color: var(--thm-base);
-    font-weight: 800;
-    line-height: 60px;
+    font-weight: 120;
+    line-height: 30px;
     margin-bottom: 59px;
 }
 
@@ -2905,7 +2907,7 @@ canvas {
 .news-one {
     position: relative;
     display: block;
-    padding: 120px 0 90px;
+    padding: 10px 0 90px;
 }
 
 .news-page {
@@ -3142,10 +3144,10 @@ canvas {
 }
 
 .cta-one__title {
-    font-size: 50px;
+    font-size: 40px;
     color: var(--thm-base);
     font-weight: 800;
-    line-height: 60px;
+    line-height: 50px;
     margin-bottom: 50px;
 }
 
